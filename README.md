@@ -3,7 +3,7 @@
 This repository contains my code submission for the CPro Project Mideval.
 
 # Files:
-twixtmideval.c - Contains the complete code for implementation of the game interface.
+**twixtmideval.c** - Contains the complete code for implementation of the game interface.
 
 # How to compile:
 Open the terminal and run the following command -
